@@ -25,8 +25,7 @@ line by typing:
 This requires a working Python distribution (so that the `python`
 executable exists) with the Python package `numpy` also installed.
 
-### [matplotlib](https://matplotlib-cpp.readthedocs.io/en/latest/
-) (C++)
+### [matplotlib](https://matplotlib-cpp.readthedocs.io/en/latest/) (C++)
 
 The C++ source file `src/Random_matplotlib.C` can be compiled into an
 executable by changing directories to the main folder of this
