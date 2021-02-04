@@ -8,9 +8,9 @@
 
 using namespace std;
 
-void Random_ROOT(){
+void Random_ROOT(long seed = 5555){
 
-  TRandom random;
+  TRandom random(seed);
   
   TH1D* hist = new TH1D("hist","hist",
 			100, -0.1, 1.1);
