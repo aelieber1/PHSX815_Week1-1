@@ -1,6 +1,6 @@
-# PHSX815 Spring 2021 Week 1 
+# PHSX815 Spring 2022 Week 1 
 
-## My edited rand num file is called Random_python_modified.py it is under > python >
+## **My edited rand num file is called Random_python_modified.py it is under > python >**
 
 ## Random number generation and data visualization
 
