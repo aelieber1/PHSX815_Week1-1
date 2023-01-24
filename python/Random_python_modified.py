@@ -104,4 +104,4 @@ if __name__ == "__main__":
     plt.show()
     
     # Save figure
-    plt.savefig("random_nums_plot")
+    # plt.savefig("random_nums_plot")
